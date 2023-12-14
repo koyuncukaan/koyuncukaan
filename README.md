@@ -1,13 +1,11 @@
 Hi I'm Kaan
 =====================
-
 I'm a Web Developer
-Currently working at akakce.com as a FE Team Lead
 ------------------------------
 
 Leiden University, Media Technology (MSc) & Baskent University, Computer Engineering (BSc)
 
-* 🌍  I'm living in Ankara,TR
+* 🌍  I'm living in Ankara,TR and working for akakce.com as a FE Team Lead
 * ✉️  You can contact me at [koyuncukaan@gmail.com](mailto:koyuncukaan@gmail.com)
 * 🧠  I'm currently focused on learning Go.
 * 🤝  I'm open to collaborating on any interesting projects!
