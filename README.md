@@ -1,16 +1,17 @@
 Hi I'm Kaan
 =====================
 
-I'm a Full Stack Web Developer
+I'm a Web Developer
+Currently working at akakce.com as a FE Team Lead
 ------------------------------
 
 Leiden University, Media Technology (MSc) & Baskent University, Computer Engineering (BSc)
 
 * 🌍  I'm living in Ankara,TR
 * ✉️  You can contact me at [koyuncukaan@gmail.com](mailto:koyuncukaan@gmail.com)
-* 🧠  I'm currently focused on getting better at Typescript
+* 🧠  I'm currently focused on learning Go.
 * 🤝  I'm open to collaborating on any interesting projects!
-* ⚡  I co-founded agri-tech startup. you can check it out: [Novaponics Agri-Tech](https://www.novaponics.com)
+* ⚡  I co-founded agri-tech startup (2019-2022). You can check it out: [Novaponics Agri-Tech](https://www.novaponics.com)
 
 ### Skills
 
